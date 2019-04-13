@@ -1,0 +1,11 @@
+branches: 
+  only: 
+    - master
+    - dev
+
+language: java
+jdk:
+ - oraclejdk8
+
+script: 
+
